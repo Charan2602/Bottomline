@@ -1,7 +1,6 @@
 # Base Image
 FROM openjdk:17-jre-slim
 
-
 # Directory in the container
 WORKDIR /app
 
